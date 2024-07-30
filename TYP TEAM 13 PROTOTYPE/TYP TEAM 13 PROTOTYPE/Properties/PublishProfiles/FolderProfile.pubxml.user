@@ -1,0 +1,264 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\xongi\Desktop\IFM3B\Alphas\site host</_PublishTargetUrl>
+    <History>True|2024-07-30T10:57:16.1676005Z;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="AboutUs.aspx">
+      <publishTime>07/30/2024 12:37:14</publishTime>
+    </File>
+    <File Include="assets/css/style.css">
+      <publishTime>07/30/2024 12:37:14</publishTime>
+    </File>
+    <File Include="bin/assets/css/style.css">
+      <publishTime>07/30/2024 12:37:14</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.SignalR.Core.dll">
+      <publishTime>07/30/2024 12:37:15</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.SignalR.Core.pdb">
+      <publishTime>07/30/2024 12:37:15</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.SignalR.SystemWeb.dll">
+      <publishTime>07/30/2024 12:37:15</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.SignalR.SystemWeb.pdb">
+      <publishTime>07/30/2024 12:37:15</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>07/30/2024 12:37:15</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.dll">
+      <publishTime>07/30/2024 12:37:15</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Host.SystemWeb.dll">
+      <publishTime>07/30/2024 12:37:15</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.dll">
+      <publishTime>07/30/2024 12:37:15</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>07/30/2024 12:37:15</publishTime>
+    </File>
+    <File Include="bin/Owin.dll">
+      <publishTime>07/30/2024 12:37:15</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>07/30/2024 12:37:15</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe.config">
+      <publishTime>07/30/2024 12:37:15</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.rsp">
+      <publishTime>07/30/2024 12:37:15</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe">
+      <publishTime>07/30/2024 12:37:15</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe.config">
+      <publishTime>07/30/2024 12:37:15</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.rsp">
+      <publishTime>07/30/2024 12:37:15</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>07/30/2024 12:37:15</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>07/30/2024 12:37:15</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll">
+      <publishTime>07/30/2024 12:37:15</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>07/30/2024 12:37:15</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll">
+      <publishTime>07/30/2024 12:37:15</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>07/30/2024 12:37:15</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>07/30/2024 12:37:15</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll">
+      <publishTime>07/30/2024 12:37:15</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll">
+      <publishTime>07/30/2024 12:37:15</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Managed.Core.targets">
+      <publishTime>07/30/2024 12:37:15</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>07/30/2024 12:37:15</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Win32.Primitives.dll">
+      <publishTime>07/30/2024 12:37:15</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.AppContext.dll">
+      <publishTime>07/30/2024 12:37:15</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>07/30/2024 12:37:15</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Console.dll">
+      <publishTime>07/30/2024 12:37:15</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.DiagnosticSource.dll">
+      <publishTime>07/30/2024 12:37:15</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.FileVersionInfo.dll">
+      <publishTime>07/30/2024 12:37:15</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.StackTrace.dll">
+      <publishTime>07/30/2024 12:37:15</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Globalization.Calendars.dll">
+      <publishTime>07/30/2024 12:37:15</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.Compression.dll">
+      <publishTime>07/30/2024 12:37:15</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.Compression.ZipFile.dll">
+      <publishTime>07/30/2024 12:37:15</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.dll">
+      <publishTime>07/30/2024 12:37:15</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.Primitives.dll">
+      <publishTime>07/30/2024 12:37:15</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Net.Http.dll">
+      <publishTime>07/30/2024 12:37:15</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Net.Sockets.dll">
+      <publishTime>07/30/2024 12:37:15</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>07/30/2024 12:37:15</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Runtime.InteropServices.RuntimeInformation.dll">
+      <publishTime>07/30/2024 12:37:15</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Algorithms.dll">
+      <publishTime>07/30/2024 12:37:15</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Encoding.dll">
+      <publishTime>07/30/2024 12:37:15</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Primitives.dll">
+      <publishTime>07/30/2024 12:37:15</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.X509Certificates.dll">
+      <publishTime>07/30/2024 12:37:15</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Text.Encoding.CodePages.dll">
+      <publishTime>07/30/2024 12:37:15</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Threading.Tasks.Extensions.dll">
+      <publishTime>07/30/2024 12:37:15</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.ValueTuple.dll">
+      <publishTime>07/30/2024 12:37:15</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.ReaderWriter.dll">
+      <publishTime>07/30/2024 12:37:15</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XmlDocument.dll">
+      <publishTime>07/30/2024 12:37:15</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XPath.dll">
+      <publishTime>07/30/2024 12:37:15</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XPath.XDocument.dll">
+      <publishTime>07/30/2024 12:37:15</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>07/30/2024 12:37:15</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe.config">
+      <publishTime>07/30/2024 12:37:15</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.rsp">
+      <publishTime>07/30/2024 12:37:15</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>07/30/2024 12:37:15</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>07/30/2024 12:37:15</publishTime>
+    </File>
+    <File Include="bin/TYP TEAM 13 PROTOTYPE.dll">
+      <publishTime>07/30/2024 12:57:15</publishTime>
+    </File>
+    <File Include="bin/TYP TEAM 13 PROTOTYPE.pdb">
+      <publishTime>07/30/2024 12:57:15</publishTime>
+    </File>
+    <File Include="Car_Registeration.aspx">
+      <publishTime>07/30/2024 12:37:14</publishTime>
+    </File>
+    <File Include="ChatPage.aspx">
+      <publishTime>07/30/2024 12:37:14</publishTime>
+    </File>
+    <File Include="Complaints.aspx">
+      <publishTime>07/30/2024 12:37:14</publishTime>
+    </File>
+    <File Include="Contact.aspx">
+      <publishTime>07/30/2024 12:37:14</publishTime>
+    </File>
+    <File Include="Driver_Dash.aspx">
+      <publishTime>07/30/2024 12:37:14</publishTime>
+    </File>
+    <File Include="FeaturedTrips.aspx">
+      <publishTime>07/30/2024 12:37:14</publishTime>
+    </File>
+    <File Include="Home.aspx">
+      <publishTime>07/30/2024 12:37:14</publishTime>
+    </File>
+    <File Include="Login.aspx">
+      <publishTime>07/30/2024 12:37:14</publishTime>
+    </File>
+    <File Include="Logout.aspx">
+      <publishTime>07/30/2024 12:37:14</publishTime>
+    </File>
+    <File Include="Passenger_DASH.aspx">
+      <publishTime>07/30/2024 12:37:14</publishTime>
+    </File>
+    <File Include="Register.aspx">
+      <publishTime>07/30/2024 12:37:14</publishTime>
+    </File>
+    <File Include="Review.aspx">
+      <publishTime>07/30/2024 12:37:14</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.6.4.js">
+      <publishTime>07/30/2024 12:37:14</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.6.4.min.js">
+      <publishTime>07/30/2024 12:37:14</publishTime>
+    </File>
+    <File Include="Scripts/jquery.signalR-2.4.3.js">
+      <publishTime>07/30/2024 12:37:14</publishTime>
+    </File>
+    <File Include="Scripts/jquery.signalR-2.4.3.min.js">
+      <publishTime>07/30/2024 12:37:14</publishTime>
+    </File>
+    <File Include="Service.aspx">
+      <publishTime>07/30/2024 12:37:14</publishTime>
+    </File>
+    <File Include="Site1.Master">
+      <publishTime>07/30/2024 12:37:14</publishTime>
+    </File>
+    <File Include="Testing_Dashboard.aspx">
+      <publishTime>07/30/2024 12:37:14</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>07/30/2024 12:44:35</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
